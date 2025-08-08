@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Performance_Score,Years_At_Company
+Ali,25.0,HR,50000,88.0,2
+Sara,22.0,IT,65000,92.0,3
+Zara,,Finance,72000,95.0,5
+Omar,29.0,IT,58000,,4
+Lina,24.0,Finance,80000,85.0,6
+Hassan,28.0,HR,47000,70.0,1
+Mona,,Finance,60000,78.0,3
+Fahad,31.0,IT,55000,91.0,2
+Noor,26.0,HR,49000,82.0,4
+Khalid,27.0,Finance,75000,,5
